@@ -1,0 +1,29 @@
+# FRONTEND
+frontend/node_modules
+frontend/dist
+frontend/.vite
+
+# env files
+frontend/.env
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# BACKEND
+backend/__pycache__/
+backend/.pytest_cache/
+backend/.venv/
+backend/venv/
+
+# Python compiled files
+*.pyc
+
+# env files
+backend/.env
+
+# GENERAL
+.DS_Store
+.vscode/
+.idea/
